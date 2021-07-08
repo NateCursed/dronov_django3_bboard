@@ -1,1 +1,1 @@
-# dronov_django3_bboard
+# dronov_django3_dashboard
